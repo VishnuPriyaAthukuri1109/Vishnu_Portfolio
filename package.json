@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishnuPriyaAthukuri1109/Portfolio.git"
+  },
+  "author": "Vishnu Priya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VishnuPriyaAthukuri1109/Portfolio/issues"
+  },
+  "homepage": "https://github.com/VishnuPriyaAthukuri1109/Portfolio#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.5",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "path": "^0.12.7"
+  }
+}
